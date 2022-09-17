@@ -1,3 +1,4 @@
+//FULLY MINIMIZED
 #ifndef CHT
 #define CHT
 #include<algorithm>
